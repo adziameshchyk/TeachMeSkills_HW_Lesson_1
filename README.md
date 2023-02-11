@@ -1,6 +1,6 @@
 # TeachMeSkills_HW_Lesson_1
 
-This repository is for Lecture 1 homework.
+This repository was created for homework in lesson №1.
 
 
 **Tasks:**
